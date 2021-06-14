@@ -126,4 +126,4 @@ datas = [prof_dataX, prof_dataY, prof_data_expX, prof_data_expY, PDD_data, PDD_d
 # ======================= P L O T S =============================
 
 plotter("X"), plotter("Y"), plotter("PDD")
-#plt.show()
+plt.show()
